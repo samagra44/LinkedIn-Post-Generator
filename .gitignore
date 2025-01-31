@@ -1,0 +1,35 @@
+```
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+*.egg
+
+# Virtualenv
+*.egg
+*.egg-info/
+*.pth
+
+# IDEs and text editors
+*.iml
+*.ipynb
+*.pyi
+*.spt
+
+# Build and deployment
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.whl
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Other
+.DS_Store
+Thumbs.db
