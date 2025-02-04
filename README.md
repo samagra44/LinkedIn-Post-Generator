@@ -1,4 +1,4 @@
-# LikedIn Post Generator 📝
+# LinkedIn Post Generator 📝
 
 A comprehensive and easy-to-use LinkedIn Post Generator that utilizes the power of large language models to create engaging and informative LinkedIn posts.
 
@@ -44,3 +44,9 @@ To use the LikedIn Post Generator, follow these steps:
 4. The application will generate a comprehensive and well-structured blog post based on the research findings.
 5. The blog post will be optimized for LinkedIn's character limit and audience.
 6. You can customize the post by selecting a template and adding relevant hashtags.
+
+## Output
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/49ef0603-10bd-4ab5-90bc-a3fb0ead8f7a" width=700 height=300 alt="animated"/>
+</p>
